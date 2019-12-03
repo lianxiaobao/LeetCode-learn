@@ -9,4 +9,4 @@
 
 * <https://lianxiaobao.github.io>
 
-* <http://bcxiaobao.cn/>
+* <http://bcxiaobao.cn>
