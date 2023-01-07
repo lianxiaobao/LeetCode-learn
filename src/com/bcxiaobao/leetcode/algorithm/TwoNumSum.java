@@ -85,7 +85,7 @@ public class TwoNumSum {
                 return num;
             }
             // 将数据存入 key为补数 ，value为下标
-            map.put(target-nums[i],i);
+            map.put(target-nums[i], i);
         }
         return num;
     }
